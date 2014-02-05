@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Kid Kare</string>
+    <string name="action_settings">Settings</string>
+    <string name="day_prompt">Select a day.</string>
+    <string name="drawer_open">Kid Kare</string>
+    <string name="drawer_close">Kid Kare</string>
+    
+
+</resources>
